@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/my-app",
+      "source": "/(.*)",
       "destination": "https://ai.studio/apps/302f86fc-84b5-4d71-89da-53da0285d7dc?fullscreenApplet=true"
     }
   ]
